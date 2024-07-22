@@ -1,0 +1,10 @@
+user_pseudo_id,event_name,event_timestamp
+12345abcde,login,2024-07-20T10:15:30Z
+67890fghij,purchase,2024-07-20T10:20:45Z
+abcde12345,logout,2024-07-20T10:25:00Z
+12345abcde,purchase,2024-07-20T10:30:15Z
+67890fghij,login,2024-07-20T10:35:45Z
+abcde12345,purchase,2024-07-20T10:40:00Z
+12345abcde,logout,2024-07-20T10:45:30Z
+67890fghij,logout,2024-07-20T10:50:45Z
+abcde12345,login,2024-07-20T10:55:00Z

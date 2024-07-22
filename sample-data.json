@@ -1,0 +1,85 @@
+[
+    {
+        "user_pseudo_id": "12345abcde",
+        "event_name": "login",
+        "event_timestamp": "2024-07-20T10:15:30Z",
+        "platform": "web",
+        "browser": "Chrome",
+        "browser_version": "91.0.4472.124",
+        "os": "Windows 10"
+    },
+    {
+        "user_pseudo_id": "67890fghij",
+        "event_name": "purchase",
+        "event_timestamp": "2024-07-20T10:20:45Z",
+        "platform": "mobile",
+        "app_version": "1.2.3",
+        "product_id": "prod_001",
+        "amount": 500
+    },
+    {
+        "user_pseudo_id": "abcde12345",
+        "event_name": "logout",
+        "event_timestamp": "2024-07-20T10:25:00Z",
+        "platform": "web",
+        "browser": "Firefox",
+        "browser_version": "89.0",
+        "os": "macOS Big Sur"
+    },
+    {
+        "user_pseudo_id": "12345abcde",
+        "event_name": "purchase",
+        "event_timestamp": "2024-07-20T10:30:15Z",
+        "platform": "web",
+        "browser": "Chrome",
+        "browser_version": "91.0.4472.124",
+        "os": "Windows 10",
+        "product_id": "prod_002",
+        "amount": 300
+    },
+    {
+        "user_pseudo_id": "67890fghij",
+        "event_name": "login",
+        "event_timestamp": "2024-07-20T10:35:45Z",
+        "platform": "mobile",
+        "app_version": "1.2.3",
+        "os": "iOS 14"
+    },
+    {
+        "user_pseudo_id": "abcde12345",
+        "event_name": "purchase",
+        "event_timestamp": "2024-07-20T10:40:00Z",
+        "platform": "web",
+        "browser": "Firefox",
+        "browser_version": "89.0",
+        "os": "macOS Big Sur",
+        "product_id": "prod_003",
+        "amount": 700
+    },
+    {
+        "user_pseudo_id": "12345abcde",
+        "event_name": "logout",
+        "event_timestamp": "2024-07-20T10:45:30Z",
+        "platform": "web",
+        "browser": "Chrome",
+        "browser_version": "91.0.4472.124",
+        "os": "Windows 10"
+    },
+    {
+        "user_pseudo_id": "67890fghij",
+        "event_name": "logout",
+        "event_timestamp": "2024-07-20T10:50:45Z",
+        "platform": "mobile",
+        "app_version": "1.2.3",
+        "os": "iOS 14"
+    },
+    {
+        "user_pseudo_id": "abcde12345",
+        "event_name": "login",
+        "event_timestamp": "2024-07-20T10:55:00Z",
+        "platform": "web",
+        "browser": "Firefox",
+        "browser_version": "89.0",
+        "os": "macOS Big Sur"
+    }
+]
